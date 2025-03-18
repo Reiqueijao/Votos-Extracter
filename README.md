@@ -1,5 +1,3 @@
-**TWOW Vote Counter - Versão 1.0**  
-
 Este projeto processa votos para um jogo no estilo **Ten Words of Wisdom (TWOW)**, organizando frases enviadas pelos jogadores e atribuindo pontos com base nas votações.  
 
 ✅ **Processamento de votos** a partir de dados JSON exportados pelo Discord Chat Exporter.  
