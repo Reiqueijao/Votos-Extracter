@@ -1,0 +1,380 @@
+{
+  "messages": [
+    {
+      "id": "1350577890009546754",
+      "content": "[abelha cbafde]",
+      "author": {
+        "id": "1181758545960640533",
+        "name": "aquele_car",
+        "roles": [
+          {
+            "name": "Participante"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1350578264292196364",
+      "content": "[abelha cdfbae]",
+      "author": {
+        "id": "1334559288844091395",
+        "name": "dacedeaw",
+        "roles": [
+          {
+            "name": "Participante"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1350578487030710365",
+      "content": "[abelha bafdce]",
+      "author": {
+        "id": "1195465804196626534",
+        "name": "reiqueija0",
+        "roles": [
+          {
+            "name": "Mestre"
+          },
+          {
+            "name": "Participante"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1350578856309821490",
+      "content": "[abelha cafbed]",
+      "author": {
+        "id": "1113220291317997568",
+        "name": "whostolemyduck",
+        "roles": [
+          {
+            "name": "Participante"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1350578891886170173",
+      "content": "[bancos dbfeca]",
+      "author": {
+        "id": "1334559288844091395",
+        "name": "dacedeaw",
+        "roles": [
+          {
+            "name": "Participante"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1350579097729892384",
+      "content": "[abelha facdbe]",
+      "author": {
+        "id": "1072276728476606525",
+        "name": "biscoitin_gostosin",
+        "roles": [
+          {
+            "name": "Participante"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1350579254454255767",
+      "content": "[a velha fcabde]",
+      "author": {
+        "id": "1182137576891625573",
+        "name": "ted0648_38072",
+        "roles": [
+          {
+            "name": "Participante"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1350579365691392031",
+      "content": "A velha:",
+      "author": {
+        "id": "1334559288844091395",
+        "name": "dacedeaw",
+        "roles": [
+          {
+            "name": "Participante"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1350579645157998734",
+      "content": "[bancos fcebad]",
+      "author": {
+        "id": "1195465804196626534",
+        "name": "reiqueija0",
+        "roles": [
+          {
+            "name": "Mestre"
+          },
+          {
+            "name": "Participante"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1350579691567714316",
+      "content": "[bancos dbafec]",
+      "author": {
+        "id": "1113220291317997568",
+        "name": "whostolemyduck",
+        "roles": [
+          {
+            "name": "Participante"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1350580615858360361",
+      "content": "[bancos dbfeac]",
+      "author": {
+        "id": "1072276728476606525",
+        "name": "biscoitin_gostosin",
+        "roles": [
+          {
+            "name": "Participante"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1350581106109321328",
+      "content": "[bancos fbeadc]",
+      "author": {
+        "id": "1182137576891625573",
+        "name": "ted0648_38072",
+        "roles": [
+          {
+            "name": "Participante"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1350581699385229354",
+      "content": "[abelha fcabde]",
+      "author": {
+        "id": "1182137576891625573",
+        "name": "ted0648_38072",
+        "roles": [
+          {
+            "name": "Participante"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1350588991761809532",
+      "content": "n entendi como vota",
+      "author": {
+        "id": "1100149659105771641",
+        "name": "60_s",
+        "roles": []
+      }
+    },
+    {
+      "id": "1350589105783705822",
+      "content": "a",
+      "author": {
+        "id": "1100149659105771641",
+        "name": "60_s",
+        "roles": []
+      }
+    },
+    {
+      "id": "1350589446340349972",
+      "content": "nem eu",
+      "author": {
+        "id": "1202830402033549323",
+        "name": "sylvia92o_78143",
+        "roles": [
+          {
+            "name": "Participante"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1350589559171321857",
+      "content": "nao conversa aqui",
+      "author": {
+        "id": "1113220291317997568",
+        "name": "whostolemyduck",
+        "roles": [
+          {
+            "name": "Participante"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1350589798691377155",
+      "content": "[abelha dfeabc]",
+      "author": {
+        "id": "1100149659105771641",
+        "name": "60_s",
+        "roles": []
+      }
+    },
+    {
+      "id": "1350589828437381250",
+      "content": "shutup man",
+      "author": {
+        "id": "1100149659105771641",
+        "name": "60_s",
+        "roles": []
+      },
+      "reference": {
+        "messageId": "1350589559171321857",
+        "channelId": "1349432120061333614",
+        "guildId": "1349431849092513813"
+      }
+    },
+    {
+      "id": "1350590179613872250",
+      "content": "\u00c3\u00a9 sem o tra\u00c3\u00a7o \u00c3\u00a9 um espa\u00c3\u00a7o",
+      "author": {
+        "id": "1195465804196626534",
+        "name": "reiqueija0",
+        "roles": [
+          {
+            "name": "Mestre"
+          },
+          {
+            "name": "Participante"
+          }
+        ]
+      },
+      "reference": {
+        "messageId": "1350589798691377155",
+        "channelId": "1349432120061333614",
+        "guildId": "1349431849092513813"
+      }
+    },
+    {
+      "id": "1350592314447364208",
+      "content": "[bancos abcdef]",
+      "author": {
+        "id": "841310745949110353",
+        "name": "ludopatareau",
+        "roles": []
+      }
+    },
+    {
+      "id": "1350594771051217038",
+      "content": "\u00c3\u00a9 com colchetes",
+      "author": {
+        "id": "1195465804196626534",
+        "name": "reiqueija0",
+        "roles": [
+          {
+            "name": "Mestre"
+          },
+          {
+            "name": "Participante"
+          }
+        ]
+      },
+      "reference": {
+        "messageId": "1350592314447364208",
+        "channelId": "1349432120061333614",
+        "guildId": "1349431849092513813"
+      }
+    },
+    {
+      "id": "1350597433553326241",
+      "content": "acho q n tem problema a forma de escrita",
+      "author": {
+        "id": "1100149659105771641",
+        "name": "60_s",
+        "roles": []
+      }
+    },
+    {
+      "id": "1350598812233764935",
+      "content": "o neg\u00c3\u00b3cio \u00c3\u00a9 que n\u00c3\u00a3o sou eu que recolho os votos, \u00c3\u00a9 um bot",
+      "author": {
+        "id": "1195465804196626534",
+        "name": "reiqueija0",
+        "roles": [
+          {
+            "name": "Mestre"
+          },
+          {
+            "name": "Participante"
+          }
+        ]
+      },
+      "reference": {
+        "messageId": "1350597433553326241",
+        "channelId": "1349432120061333614",
+        "guildId": "1349431849092513813"
+      }
+    },
+    {
+      "id": "1350641630150918247",
+      "content": "[abelha faebcd]",
+      "author": {
+        "id": "1202830402033549323",
+        "name": "sylvia92o_78143",
+        "roles": [
+          {
+            "name": "Participante"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1350642672028880907",
+      "content": "[bancos acdebf]",
+      "author": {
+        "id": "1202830402033549323",
+        "name": "sylvia92o_78143",
+        "roles": [
+          {
+            "name": "Participante"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1350642672028880908",
+      "content": "[bancos debfca]",
+      "author": {
+        "id": "0",
+        "name": "PILAS",
+        "roles": [
+          {
+            "name": "Participante"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1350642672028880908",
+      "content": "[abelha dfcbae]",
+      "author": {
+        "id": "0",
+        "name": "PILAS",
+        "roles": [
+          {
+            "name": "Participante"
+          }
+        ]
+      }
+    }
+  ],
+  "messageCount": 26
+}
