@@ -1,7 +1,7 @@
 import json
 import os
 
-opcoes = ["a", "b", "c", "d", "e"]
+opcoes = ["a", "b", "c", "d", "e","f"]
 
 # Diretório onde as frases serão salvas
 DIRETORIO = "Frases"
